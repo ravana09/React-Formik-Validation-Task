@@ -20,7 +20,7 @@
  
 ## Netlify Deployed URL
 
-🔸*Check out My Formik Library Management Application Here*👉🏻 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)]()
+🔸*Check out My Formik Library Management Application Here*👉🏻 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://loquacious-starlight-43c1ba.netlify.app)
 
 ## Features
 
@@ -34,7 +34,7 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone 
+   git clone https://github.com/ravana09/React-Formik-Validation-Task.git
 
    ```
 
